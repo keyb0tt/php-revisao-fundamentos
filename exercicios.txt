@@ -1,0 +1,76 @@
+Exercícios de PHP - Fundamentos da Linguagem
+Exercício 1: Variáveis e Saída Básica
+Crie variáveis para armazenar seu nome, idade e cidade. Exiba na tela a mensagem: "Meu nome é [nome], tenho [idade] anos e moro em [cidade]".
+
+Exercício 2: Operações Matemáticas
+Crie duas variáveis numéricas e realize as seguintes operações: soma, subtração, multiplicação, divisão e resto da divisão. Exiba todos os resultados.
+
+Exercício 3: Manipulação de Strings
+Crie uma variável com o texto "php é uma linguagem poderosa" e realize as seguintes transformações: converter para maiúsculas, converter para minúsculas, primeira letra maiúscula, e contar quantos caracteres a string possui.
+
+Exercício 4: Formulário HTML - Dados Pessoais
+Crie um formulário HTML que capture nome, email e mensagem. Desenvolva um script PHP que receba esses dados via POST e os exiba na tela.
+
+Exercício 5: Formulário HTML - Comparação de Números
+Crie um formulário com dois campos numéricos. No PHP, receba esses valores e verifique qual número é maior ou se são iguais, exibindo o resultado apropriado.
+
+Exercício 6: Trabalhando com Arrays
+Crie um array com 5 frutas. Exiba: a primeira fruta, a última fruta, todas as frutas em uma lista não ordenada, e a quantidade total de frutas no array.
+
+Exercício 7: Estruturas Condicionais - Sistema de Notas
+Crie uma variável com uma nota de 0 a 10. Classifique conforme:
+
+0-4: Reprovado
+
+5-6: Recuperação
+
+7-10: Aprovado
+Exiba a situação do aluno.
+
+Exercício 8: Estruturas de Repetição
+Use um loop for para exibir os números de 1 a 10. Em seguida, use um loop while para exibir os números pares de 2 a 20.
+
+Exercício 9: Manipulação de Datas
+Exiba: a data atual no formato dd/mm/aaaa, o dia da semana, a hora atual, e a data de 7 dias atrás.
+
+Exercício 10: Formulário com Validação
+Crie um formulário de cadastro com os campos:
+
+Nome (campo obrigatório)
+
+Email (campo obrigatório e deve ser um email válido)
+
+Idade (deve estar entre 18 e 100 anos)
+
+No PHP, valide os dados e exiba mensagens de erro específicas ou mensagem de sucesso.
+
+Exercício 11: Calculadora Simples
+Crie uma calculadora que receba dois números e uma operação (+, -, *, /) via formulário. Realize a operação matemática correspondente e exiba o resultado.
+
+Exercício 12: Trabalhando com Arrays Associativos
+Crie um array associativo para representar uma pessoa com: nome, idade, cidade e profissão. Exiba todas as informações em formato de lista.
+
+Exercício 13: Conversor de Temperatura
+Crie um script que converta temperatura de Celsius para Fahrenheit e vice-versa. O usuário deve escolher a conversão desejada e informar a temperatura.
+
+Exercício 14: Verificador de Palíndromo
+Crie uma função que verifique se uma palavra é um palíndromo (lê-se igual de trás para frente). Exiba se a palavra é ou não um palíndromo.
+
+Exercício 15: Gerador de Tabuada
+Crie um script que gere a tabuada de 1 a 10 para um número fornecido pelo usuário.
+
+Exercício 16: Formulário de Upload Simples
+Crie um formulário para upload de arquivos que permita apenas imagens (jpg, png, gif) com tamanho máximo de 2MB. Exiba mensagens de erro ou sucesso.
+
+Exercício 17: Manipulação de Cookies
+Crie um script que armazene o nome do usuário em um cookie e exiba uma mensagem personalizada quando o usuário retornar ao site.
+
+Exercício 18: Sessions - Carrinho de Compras
+Implemente um carrinho de compras simples usando sessions. O usuário deve poder adicionar produtos, visualizar o carrinho e remover itens.
+
+Exercício 19: Validação de CPF
+Crie uma função que valide um número de CPF digitado pelo usuário, verificando se segue as regras de formação.
+
+Exercício 20: Conexão com Banco de Dados
+Crie um script que se conecte a um banco de dados MySQL e execute operações básicas: INSERT, SELECT, UPDATE e DELETE em uma tabela de usuários.
+
